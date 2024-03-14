@@ -1,0 +1,14 @@
+/* PROJETOS */
+
+
+.projetos .container-projetos{
+    width: 350px;
+    text-align: center;
+
+}
+
+.projetos .container-projetos .informacoes p{
+    font-size: 2rem;
+    font-family: var(--fonte-secundaria);
+    text-align: justify;
+}

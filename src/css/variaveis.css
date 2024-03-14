@@ -1,0 +1,21 @@
+:root {
+    --cor-primaria: #353535;
+    --cor-secundaria: #c6ca8e;    
+    --cor-branca: #fff;
+    --cor-fundo-escuro: #a88249ad;    
+    --cor-fundo-cinza-escuro: #199292;
+    --cor-fundo-cinza-claro: #353535;    
+  }
+    
+  :root {
+    --fonte-primaria: 'Black Ops One', cursive;
+    --fonte-secundaria: 'KoHo', sans-serif;
+    --fonte-gigante: 4.5rem;
+    --fonte-extra-grande: 3rem;
+    --fonte-grande: 2.4rem;
+    --fonte-normal: 1.6rem;
+  }
+  
+  :root {
+    --mobile-padding: 30px;
+  }
